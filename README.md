@@ -71,7 +71,7 @@ https://gino3.mooo.com
 
 ### Step 8: Screenshot of the Deployed Website
 Here is a screenshot of the website after successful deployment:
-Altexam/images/Screenshot 2024-12-21 at 09.56.57.png
+images/Screenshot 2024-12-21 at 09.56.57.png
 
 @ George Oluwaseun Oselade / ALT/SOE/024/1224  
    
