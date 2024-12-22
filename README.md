@@ -59,7 +59,10 @@ nano index.html
 ```
 3. Saved and exited the editor to deploy the page.
 
-   ![Deployed Website Screenshot](images/Screenshot%202024-12-21%20at%2009.56.57.png)
+   ## Deployed Website Screenshot
+
+![Deployed Screenshot](images/Screenshot%202024-12-21%20at%2009.56.57.png)
+
 
    
 ### Step 6: Configuring Networking
