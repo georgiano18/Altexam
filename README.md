@@ -71,7 +71,8 @@ https://gino3.mooo.com
 
 ### Step 8: Screenshot of the Deployed Website
 Here is a screenshot of the website after successful deployment:
-images/Screenshot 2024-12-21 at 09.56.57.png
+![Deployed Website Screenshot](images/Screenshot%202024-12-21%20at%2009.56.57.png)
+
 
 @ George Oluwaseun Oselade / ALT/SOE/024/1224  
    
