@@ -44,8 +44,8 @@ apt install apache2 -y
 systemctl start apache2
 systemctl enable apache2
 ```
-3. You can also confirm by going to your AWS console, copying your public IPv4 address, and pasting it into a browser:
--Make sure you change the protocol to http, else you’ll get an error.
+3. I also confirmed by going to my AWS console, copying your public IPv4 address, and pasting it into a browser:
+-Make sure you change the protocol to http,.
 -Example URL: http://54.166.55.135
 
 ### Step 5: Deploying the HTML Page
@@ -58,6 +58,9 @@ cd /var/www/html
 nano index.html
 ```
 3. Saved and exited the editor to deploy the page.
+
+   ![Deployed Website Screenshot](images/Screenshot%202024-12-21%20at%2009.56.57.png)
+
    
 ### Step 6: Configuring Networking
 1. Accessed freedns.afraid.org to configure a DNS record for the server’s public IP address.
@@ -69,9 +72,7 @@ nano index.html
 3. My web server was accessible via the custom domain at:
 https://gino3.mooo.com
 
-### Step 8: Screenshot of the Deployed Website
-Here is a screenshot of the website after successful deployment:
-![Deployed Website Screenshot](images/Screenshot%202024-12-21%20at%2009.56.57.png)
+
 
 
 @ George Oluwaseun Oselade / ALT/SOE/024/1224  
